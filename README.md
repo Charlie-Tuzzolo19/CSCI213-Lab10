@@ -11,4 +11,4 @@ The main method prints:
 * credits
 * classroom
 
-![emoji](/images/emoji.jpg)
+:cowboy_hat_face:
